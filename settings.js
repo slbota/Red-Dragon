@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀 v6.0
 //
 //════════════(00)════════════════\\
 
@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is BOT HASHA🔥
 My Creator is Hashan😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94771337628'] //Owner number in aive msg
-global.premium = ['+94771337628'] //Owner Number info
-global.ownernomer = '+94771337628' //Owner Number <<<
+global.owner = ['+94715985737'] //Owner number in aive msg
+global.premium = ['+94715985737'] //Owner Number info
+global.ownernomer = '+94715985737' //Owner Number <<<
 
 global.ownername = '😎B.Hashan' //Owner Name
 global.botname = ' ☬BOT༒HASHA࿐' //Bot Name
@@ -47,14 +47,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅',
+    success: 'දැන් සැපද ✅',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈  ටිකක් ඉම්න...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
